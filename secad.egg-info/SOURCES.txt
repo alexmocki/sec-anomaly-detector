@@ -1,0 +1,8 @@
+README.md
+main.py
+setup.py
+secad.egg-info/PKG-INFO
+secad.egg-info/SOURCES.txt
+secad.egg-info/dependency_links.txt
+secad.egg-info/entry_points.txt
+secad.egg-info/top_level.txt
